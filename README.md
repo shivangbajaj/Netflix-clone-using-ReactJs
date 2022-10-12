@@ -1,5 +1,7 @@
 # Netflix-clone using ReactJs
 
+Link to hosted website - https://netflix-shivang.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
